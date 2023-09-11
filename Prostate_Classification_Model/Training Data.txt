@@ -1,0 +1,1 @@
+1. The training_set and test_set contain a correspondence between Patient ID and the associated response (0=primary, 1=metastasis)
